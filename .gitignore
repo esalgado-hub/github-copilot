@@ -1,0 +1,43 @@
+# Ignorar ambientes virtuais
+venv/
+venv-dio/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos de compilação
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar arquivos de dependências
+node_modules/
+
+# Ignorar arquivos de build
+build/
+dist/
+
+# Ignorar arquivos de configuração local
+.env
+*.local
+
+# Ignorar arquivos gerados pelo sistema
+*.swp
+*.bak
+*.orig
+*.rej
+*.swo
+
+# Ignorar arquivos de pacotes
+*.egg-info/
+*.eggs/
