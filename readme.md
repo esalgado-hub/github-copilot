@@ -1,4 +1,4 @@
-# Identificador de Bandeira de Cartão
+# Identificador de `Bandeira de Cartão` 💳
 
 Este projeto é um identificador de bandeira de cartão de crédito, disponível em versões Python e JavaScript, que reconhece as principais bandeiras a partir do número informado.
 
